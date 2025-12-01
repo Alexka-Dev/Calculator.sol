@@ -2,7 +2,7 @@
 
 📝 Overview
 
-The **Calculator Accumulator Smart Contract** is a decentralized application designed to execute sequential arithmetic operations on the Ethereum blockchain. This contract uses the **Accumulator Pattern** to store and reuse the previous result (`currentResult`) as the base for the next operation, functioning like a handheld calculator with persistent memory.
+The **Calculator Accumulator Smart Contract** is a smart contract designed to execute sequential arithmetic operations on the Ethereum blockchain. This contract uses the **Accumulator Pattern** to store and reuse the previous result (`currentResult`) as the base for the next operation, functioning like a handheld calculator with persistent memory.
 
 Built with **Solidity**, the contract prioritizes **clean code architecture** by separating the user interface (public functions) from the core calculation logic (internal pure functions).
 
